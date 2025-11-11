@@ -1,16 +1,5 @@
 # Manual Técnico — Provisionamento via APP
 
-## Metadados
-
-| Campo  | Valor                             |
-| :----- | :-------------------------------- |
-| Título | Manual de Provisionamento via APP |
-| Versão | 0.1                               |
-| Autor  | Fernando Jacobsen                 |
-| Data   | 10-11-2025                        |
-
----
-
 ## Sumário
 
 [1. Objetivo](#1-objetivo)
@@ -36,6 +25,8 @@
 - **Ferramenta:** Utilizar o aplicativo móvel **Voalle Tasks** como interface de gestão em campo.
 - **Resultado:** Garantir a ativação rápida, padronizada e o registro correto do equipamento no ERP Voalle.
 
+---
+
 ## 2. Escopo
 
 - **Início:** Inicia-se com a abertura da Ordem de Serviço (OS) de Instalação no **Voalle Tasks**.
@@ -43,10 +34,14 @@
 - **Fim:** Encerra-se com a **confirmação do registro da ONU** na OLT (luz _Auth/Link_ estável) e a finalização da OS no aplicativo.
 - **Exclusão:** Não abrange a configuração da OLT, instalação física da fibra (fusão, medição de sinal), ou _troubleshooting_ de problemas na camada física (ex: LOS).
 
+---
+
 ## 3. Público-alvo
 
 - Técnicos de Instalação e Suporte de Campo.
 - Supervisores e Coordenadores Técnicos.
+
+---
 
 ## 4. Pré-requisitos
 
@@ -55,6 +50,8 @@
 - **Dados:** Número de Série (SN) completo da ONU a ser instalada.
 - **Sistema:** Ordem de Serviço (OS) ou Atendimento/Tarefa aberta no Voalle, com a porta PON correta já reservada ou definida.
 - **Físico:** ONU conectada à porta PON e recebendo sinal óptico adequado (LED **LOS apagado**).
+
+---
 
 ## 5. Convenções do documento
 
@@ -65,6 +62,8 @@
 | `Bloco de Código`   | Comandos de terminal, variáveis ou dados sensíveis.             | O LED `LOS` deve estar apagado. |
 | **`[Placeholder]`** | Variáveis a serem substituídas pelo valor específico da OS.     | `[ID da OS]`                    |
 
+---
+
 ## 6. Arquitetura e componentes
 
 - **Componente 1:** OLT (Modelo e Firmware específicos).
@@ -72,6 +71,8 @@
 - **Componente 3:** Aplicativo **Voalle Tasks** (interface móvel para o técnico).
 - **Componente 4:** ONU do Cliente (Fabricante/Modelo homologado).
 - **Interação:** O técnico insere o SN no **Voalle Tasks** $\rightarrow$ o app envia o SN para o **Voalle ERP** $\rightarrow$ o **ERP** envia o comando de autorização (via API ou protocolo) para a **OLT**.
+
+---
 
 ## 7. Inventário / Variáveis
 
@@ -172,6 +173,8 @@ Este procedimento deve ser executado com o técnico já na localização do clie
   186.251.166.23/27
 
   e deve ser feito.
+
+---
 
 ## 10. Validação e testes
 
