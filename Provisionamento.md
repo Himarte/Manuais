@@ -2,20 +2,20 @@
 
 ## Sumário
 
-[1. Objetivo](#1-objetivo)
-[2. Escopo](#2-escopo)
-[3. Público-alvo](#3-publico-alvo)
-[4. Pré-requisitos](#4-pre-requisitos)
-[5. Convenções do documento](#5-convencoes-do-documento)
-[6. Arquitetura e componentes](#6-arquitetura-e-componentes)
-[7. Inventário / Variáveis](#7-inventario--variaveis)
-[8. Procedimento de provisionamento](#8-procedimento-de-provisionamento)
-[9. Configuração ONU](#9-configuracao-onu)
-[10. Validação e testes](#10-validacao-e-testes)
-[11. Rollback](#11-rollback)
-[12. Monitoramento e manutenção](#13-monitoramento-e-manutencao)
-[13. Segurança](#13-seguranca)
-[14. Troubleshooting](#14-troubleshooting)
+- [1. Objetivo](#1-objetivo)
+- [2. Escopo](#2-escopo)
+- [3. Público-alvo](#3-publico-alvo)
+- [4. Pré-requisitos](#4-pre-requisitos)
+- [5. Convenções do documento](#5-convencoes-do-documento)
+- [6. Arquitetura e componentes](#6-arquitetura-e-componentes)
+- [7. Inventário / Variáveis](#7-inventario--variaveis)
+- [8. Procedimento de provisionamento](#8-procedimento-de-provisionamento)
+- [9. Configuração ONU](#9-configuracao-onu)
+- [10. Validação e testes](#10-validacao-e-testes)
+- [11. Rollback](#11-rollback)
+- [12. Monitoramento e manutenção](#13-monitoramento-e-manutencao)
+- [13. Segurança](#13-seguranca)
+- [14. Troubleshooting](#14-troubleshooting)
 
 ---
 
