@@ -55,12 +55,10 @@
 
 ## 5. Convenções do documento
 
-| Convenção           | Significado                                                     | Aplicação                       |
-| :------------------ | :-------------------------------------------------------------- | :------------------------------ |
-| **Negrito**         | Nomes de menus, botões ou ações no aplicativo **Voalle Tasks**. | Tocar em **Provisionar**.       |
-| _Itálico_           | Informações de _input_ ou dados variáveis.                      | Inserir o _Serial Number_.      |
-| `Bloco de Código`   | Comandos de terminal, variáveis ou dados sensíveis.             | O LED `LOS` deve estar apagado. |
-| **`[Placeholder]`** | Variáveis a serem substituídas pelo valor específico da OS.     | `[ID da OS]`                    |
+| Convenção   | Significado                                                     | Aplicação                  |
+| :---------- | :-------------------------------------------------------------- | :------------------------- |
+| **Negrito** | Nomes de menus, botões ou ações no aplicativo **Voalle Tasks**. | Tocar em **Provisionar**.  |
+| _Itálico_   | Informações de _input_ ou dados variáveis.                      | Inserir o _Serial Number_. |
 
 ---
 
