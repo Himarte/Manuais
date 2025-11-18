@@ -30,6 +30,7 @@ Arquivos relacionados à configuração, uso e interpretação dos alertas de mo
 ## 2. Redes e Transporte (Core e Backbone)
 
 Em desenvolvimento
+Sugestão: https://github.com/JacobsenNando/Network
 
 <!-- Documentação focada em equipamentos de rede (Roteadores, Switches, OLTs) e protocolos (BGP, OSPF, VLANs).
 
