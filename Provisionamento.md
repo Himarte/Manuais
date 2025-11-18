@@ -64,10 +64,10 @@
 
 ## 6. Arquitetura e componentes
 
-- **Componente 1:** OLT (Modelo e Firmware específicos).
-- **Componente 2:** Servidor/Instância do **Voalle ERP** (onde a lógica de provisionamento reside).
+- **Componente 1:** OLT.
+- **Componente 2:** Servidor/Instância do **Voalle ERP**.
 - **Componente 3:** Aplicativo **Voalle Tasks** (interface móvel para o técnico).
-- **Componente 4:** ONU do Cliente (Fabricante/Modelo homologado).
+- **Componente 4:** ONU do Cliente.
 - **Interação:** O técnico insere o SN no **Voalle Tasks** $\rightarrow$ o app envia o SN para o **Voalle ERP** $\rightarrow$ o **ERP** envia o comando de autorização (via API ou protocolo) para a **OLT**.
 
 ---
@@ -219,3 +219,19 @@ Este procedimento deve ser executado com o técnico já na localização do clie
 | **LED LOS piscando/vermelho.**                       | Problema físico de sinal óptico (Sinal fraco, fibra quebrada).                     | **Verificar emenda/fusão/potência na CTO. Chamar Suporte de Fibra.**      |
 | **"Provisionamento OK, mas sem link".**              | Template errado, VLAN incorreta, ou problema no cadastro de serviço (PPPoE).       | **Revisar o Template da ONU e o serviço do cliente no Voalle (ERP Web).** |
 | **ONU aparece como "Desautorizada" (Unauthorized).** | Tentativa de provisionamento com SN errado, ou ONU já provisionada em outra porta. | **Desprovisionar e repetir o processo, garantindo o SN correto.**         |
+
+## 15. Links Úteis
+
+- [Introdução a redes](https://github.com/JacobsenNando/Network)
+
+  - Alguns documentos para inicação em redes de computadores:
+    https://github.com/JacobsenNando/Network
+
+- [Lista de vídeos Youtube](https://www.youtube.com/watch?v=HNQD0qJ0TC4&list=PLVJJS8a9aDJei-PsI9ZpULRm9YMDOiATY)
+
+  - Lista com uma seleção de vídeos para um entendimento básico de redes:
+    https://www.youtube.com/watch?v=HNQD0qJ0TC4&list=PLVJJS8a9aDJei-PsI9ZpULRm9YMDOiATY
+
+- [NIC.BR](https://nic.br/)
+  - NIC.BR é a autoridade brasileira de governança da internet, nesse site há muito conteúdo e cursos grátis:
+    https://nic.br/
