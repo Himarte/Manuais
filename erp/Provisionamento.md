@@ -141,12 +141,12 @@ Este procedimento deve ser executado com o técnico já na localização do clie
   - Selecionar o script e tocar no botão **"Inicia Provisionamento"**.
 
 <div style="text-align: center;">
-    <img src="/img/SlotPort.jpg" alt="Tela de Provisionamento" width="30%">
+    <img src="img/SlotPort.jpg" alt="Tela de Provisionamento" width="30%">
 
 </div>
 
 <div style="text-align: center;">
-    <img src="/img/Script.jpg" alt="Tela de Provisionamento" width="30%">
+    <img src="img/Script.jpg" alt="Tela de Provisionamento" width="30%">
 
 </div>
 
@@ -163,7 +163,7 @@ Este procedimento deve ser executado com o técnico já na localização do clie
 - Novamente no menu **DADOS DA CONEXÃO** você poderá alterar a senha do PPPoE e vizualizar o usuário, assim como a senha que deverá ser configurada como usuário administrador do equipamento que será única para cada cliente.
 
 <div style="text-align: center;">
-    <img src="/img/User.jpg" alt="Tela de Provisionamento" width="30%">
+    <img src="img/User.jpg" alt="Tela de Provisionamento" width="30%">
 </div>
 
 - Configuração dpara acesso remoto mantém o padrão de liberar apenas para o IP da matriz:
@@ -189,7 +189,7 @@ Este procedimento deve ser executado com o técnico já na localização do clie
 - **Procedimento:** Se o provisionamento falhar, o processo de _rollback_ é o **Desprovisionamento/Deleção** da ONU. Retornar à seção **"Conexão"** da OS no Voalle Tasks (ou na interface web), e usar a opção **"Desprovisionar ONU"** / **"Deletar Equipamento"**.
 
 <div style="text-align: center;">
-    <img src="/img/Desprovisiona.jpg" alt="Tela de Provisionamento" width="30%">
+    <img src="img/Desprovisiona.jpg" alt="Tela de Provisionamento" width="30%">
 
 </div>
 

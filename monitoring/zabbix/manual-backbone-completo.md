@@ -9,11 +9,11 @@
 ## 1. Visão Geral do Painel
 
 <div style="text-align: center;">
-    <img src="/img/Zabbix/Painel.png" alt="Tela de Provisionamento" width="100%">
+    <img src="img/Painel.png" alt="Tela de Provisionamento" width="100%">
 
 </div>
 <div style="text-align: center;">
-    <img src="/img/Zabbix/Painel_2.png" alt="Tela de Provisionamento" width="100%">
+    <img src="img/Painel_2.png" alt="Tela de Provisionamento" width="100%">
 
 </div>
 
@@ -33,7 +33,7 @@
 ### 2.1. OLT (Optical Line Terminal)
 
 <div style="text-align: center;">
-    <img src="/img/Zabbix/OltPanel.png" alt="Tela de Provisionamento" width="100%">
+    <img src="img/OltPanel.png" alt="Tela de Provisionamento" width="100%">
 
 </div>
 
@@ -46,7 +46,7 @@ Este widget lista problemas exclusivos da infraestrutura GPON/OLT.
 ### 2.2. Clientes e Backbone
 
 <div style="text-align: center;">
-    <img src="/img/Zabbix/DedBack.png" alt="Tela de Provisionamento" width="100%">
+    <img src="img/DedBack.png" alt="Tela de Provisionamento" width="100%">
 
 </div>
 Agrega falhas de transporte (Trunk, EoIP) e degradação de serviços de clientes dedicados.
@@ -61,7 +61,7 @@ Agrega falhas de transporte (Trunk, EoIP) e degradação de serviços de cliente
 ## 3. Seção II: Topologia e Causa Raiz (Mapa de Backbone)
 
 <div style="text-align: center;">
-    <img src="/img/Zabbix/Map.png" alt="Tela de Provisionamento" width="100%">
+    <img src="img/Map.png" alt="Tela de Provisionamento" width="100%">
 
 </div>
 O mapa fornece a visão lógica da rede. É a principal ferramenta para _Root Cause Analysis_ (RCA).
@@ -86,7 +86,7 @@ Visualização de status binário (ativo/inativo).
 ### 4.1. Monitoramento de Luz
 
 <div style="text-align: center;">
-    <img src="/img/Zabbix/MonitorLuz.png" alt="Tela de Provisionamento" width="100%">
+    <img src="img/MonitorLuz.png" alt="Tela de Provisionamento" width="100%">
 
 </div>
 Monitora a presença de energia elétrica da concessionária nos PoPs. Ao passar o maouse em cima o combo expande para melhor vizualização.
@@ -98,7 +98,7 @@ Monitora a presença de energia elétrica da concessionária nos PoPs. Ao passar
 ### 4.2. PEER BGP
 
 <div style="text-align: center;">
-    <img src="/img/Zabbix/Bgp.png" alt="Tela de Provisionamento" width="100%">
+    <img src="img/Bgp.png" alt="Tela de Provisionamento" width="100%">
 
 </div>
 Monitora a sessão de roteamento BGP.
@@ -110,7 +110,7 @@ Monitora a sessão de roteamento BGP.
 ### 4.3. Comunicação Adyl
 
 <div style="text-align: center;">
-    <img src="/img/Zabbix/Uplink.png" alt="Tela de Provisionamento" width="100%">
+    <img src="img/Uplink.png" alt="Tela de Provisionamento" width="100%">
 
 </div>
 Monitora o status das interfaces físicas do _Uplink_ primário.
@@ -123,7 +123,7 @@ Monitora o status das interfaces físicas do _Uplink_ primário.
 ## 5. Seção IV: Performance e Capacidade (Gráficos NE40 BGP)
 
 <div style="text-align: center;">
-    <img src="/img/Zabbix/UpGraf.png" alt="Tela de Provisionamento" width="100%">
+    <img src="img/UpGraf.png" alt="Tela de Provisionamento" width="100%">
 
 </div>
 
