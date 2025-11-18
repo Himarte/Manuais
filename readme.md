@@ -29,25 +29,31 @@ Arquivos relacionados à configuração, uso e interpretação dos alertas de mo
 
 ## 2. Redes e Transporte (Core e Backbone)
 
-Documentação focada em equipamentos de rede (Roteadores, Switches, OLTs) e protocolos (BGP, OSPF, VLANs).
+Em desenvolvimento
+
+<!-- Documentação focada em equipamentos de rede (Roteadores, Switches, OLTs) e protocolos (BGP, OSPF, VLANs).
 
 - [Guia de Configuração de OLTs (Modelos X e Y)](network/config-olt.md)
 - [Comandos de Verificação Rápida para Roteadores NE40](network/comandos-rapidos-ne40.md)
-- [Procedimento de Troubleshooting de Fibra Óptica (OTDR)](network/troubleshoot-fibra.md)
+- [Procedimento de Troubleshooting de Fibra Óptica (OTDR)](network/troubleshoot-fibra.md) -->
 
 ## 3. Servidores e Virtualização
 
-Documentação relacionada à administração de Servidores (Linux/Windows) e ambientes de Virtualização (VMware/Proxmox).
+Em desenvolvimento
+
+<!-- Documentação relacionada à administração de Servidores (Linux/Windows) e ambientes de Virtualização (VMware/Proxmox).
 
 - [Manual de Hardening de Servidores Linux (Ubuntu)](servers/hardening-linux.md)
-- [Procedimento de Backup e Restauração de VMs Críticas](servers/backup-restore-vms.md)
+- [Procedimento de Backup e Restauração de VMs Críticas](servers/backup-restore-vms.md) -->
 
 ## 4. Procedimentos Operacionais Padrão (SOPs)
 
-Instruções passo a passo para execução de tarefas recorrentes ou emergenciais.
+Em desenvolvimento
+
+<!-- Instruções passo a passo para execução de tarefas recorrentes ou emergenciais.
 
 - [SOP: Fluxo de Escalamento de Incidentes de N1 para N2](sops/escalonamento-n1-n2.md)
-- [SOP: Protocolo de Atuação em Queda Total de Link IP](sops/protocolo-link-down-total.md)
+- [SOP: Protocolo de Atuação em Queda Total de Link IP](sops/protocolo-link-down-total.md) -->
 
 ---
 
