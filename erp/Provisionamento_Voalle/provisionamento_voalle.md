@@ -106,7 +106,15 @@ Após o provisionamento, confirme com o técnico em campo se a conexão do clien
 
 ### 9. Verificar o sinal de **ONU** via **Script**
 
+<div style="text-align: center;">
+    <img src="img/sinal_onu.png" alt="Tela de Provisionamento" width="75%">
+
+</div>
 Utilize o script disponível para consultar o status e o nível de sinal da ONU, garantindo que os parâmetros ópticos estejam dentro dos padrões aceitáveis.
+
+É importante conferir se os dados estão corretos antes de rodar o script pois se estiver algo errado nao vai funcionar.
+
+O retorno vai ser apresentado na caixa de baixo e será necessário olhar nas linha para conferir o sinal.
 
 ### 10. Relatar OS
 
