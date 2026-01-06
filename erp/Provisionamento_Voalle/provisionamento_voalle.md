@@ -75,7 +75,7 @@ No campo de pesquisa buscar o cliente por nome, numero do contrato ou ainda PPPo
 
 Caso o ponto de acesso não estiver correto, o script será rodado em outra OLT e vai dar erro. O ponto de acesso pode ser alterado atribuindo um Splitter (CTO) a conexão ou ainda na tela de conexão (onde aparece PPPoE e Senha).
 
-**OBS**: _De momento somente está 100% correto a parte de spliters, sendo assim o Splitter pode não aparecer na busca e será necessário acionar administradores do Geogrid (Fernanda, Fernando ou Fauth)_\
+**OBS**: _De momento somente está 100% correto a parte de spliters, sendo assim o Splitter pode não aparecer na busca e será necessário acionar administradores do Geogrid (Fernanda, Fernando ou Fauth)_
 
 ### 5. Buscar **Slot e Port** clicando no icone de engrenagem.
 
